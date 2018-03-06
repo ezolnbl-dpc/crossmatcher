@@ -1,0 +1,14 @@
+.gradle
+/build/
+**/test-output/*
+**/bin/*
+**/logs/*
+/target/*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
